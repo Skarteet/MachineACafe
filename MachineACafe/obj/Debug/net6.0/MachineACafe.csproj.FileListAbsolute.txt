@@ -1,0 +1,15 @@
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\MachineACafe\bin\Debug\net6.0\MachineACafe.exe
+C:\Users\Antoine\source\repos\MachineACafe\bin\Debug\net6.0\MachineACafe.deps.json
+C:\Users\Antoine\source\repos\MachineACafe\bin\Debug\net6.0\MachineACafe.runtimeconfig.json
+C:\Users\Antoine\source\repos\MachineACafe\bin\Debug\net6.0\MachineACafe.dll
+C:\Users\Antoine\source\repos\MachineACafe\bin\Debug\net6.0\MachineACafe.pdb
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.dll
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\refint\MachineACafe.dll
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.pdb
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\MachineACafe.genruntimeconfig.cache
+C:\Users\Antoine\source\repos\MachineACafe\obj\Debug\net6.0\ref\MachineACafe.dll
